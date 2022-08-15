@@ -22,7 +22,7 @@ Each mini can move up to 8 units, minus any speed penalty from their gear. Climb
 
 ## Actions
 
-A mini can perform one **action** against a target each turn if the target is within their item or weapon **Range**. The attacking mini rolls the dice specified in the **Hit** column for their item as its _attacking roll_. The target mini rolls the dice specified in the **Hit** column for their Armor as its _defending roll_. If the _attacking roll_ is **higher** than the _defending roll_, the attack hits. The attacker rolls the dice specified in the **Damage** column as its _damage roll_. Subtract the target’s armor **Absorb** number from the _damage roll_. The defending mini loses hitpoints equal to the calculated damage.
+A mini can perform one **Action** against a target each turn if the target is within their item or weapon **Range**. The attacking mini rolls the dice specified in the **Hit** column for their item as its _attacking roll_. The target mini rolls the dice specified in the **Hit** column for their Armor as its _defending roll_. If the _attacking roll_ is **higher** than the _defending roll_, the attack hits. The attacker rolls the dice specified in the **Damage** column as its _damage roll_. Subtract the target’s armor **Absorb** number from the _damage roll_. The defending mini loses hitpoints equal to the calculated damage.
 
 If a mini does not take an action, it may move twice it's normal range.
 

@@ -21,3 +21,11 @@ To play TabletopHero you need:
   - Chess or other placeholders with vertical dimension
 - Some random items to use as battlefield obstacles
 - Your imagination and a tabletop!
+
+## License
+
+TabletopHero is free to play but the rules and other content are Copyright 2022 Justin Johnson.
+
+I am copyrighting the rules primarily to reserve the right to publish them but my goal is for this game to be free and simple to play. If you would like to publish the rules or use them in your game, it's highly likely that I will license them to you for free.
+
+Please contact [@profexorgeek on Twitter](https://twitter.com/profexorgeek) or file an issue on this repository if you would like to use this ruleset for something.
